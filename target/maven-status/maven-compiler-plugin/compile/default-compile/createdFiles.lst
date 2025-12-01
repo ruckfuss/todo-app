@@ -1,0 +1,9 @@
+com\berke\todo\service\TaskService.class
+com\berke\todo\app\CommandLineApp.class
+com\berke\todo\repository\InMemoryTaskRepository.class
+com\berke\todo\domain\Priority.class
+com\berke\todo\domain\Status.class
+com\berke\todo\domain\Task.class
+com\berke\todo\util\TextNormalizer.class
+com\berke\todo\repository\TaskRepository.class
+com\berke\todo\util\TaskFormatter.class

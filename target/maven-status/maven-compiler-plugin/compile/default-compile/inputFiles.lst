@@ -1,0 +1,9 @@
+C:\Users\berke\OneDrive\Masaüstü\todo-app\src\main\java\com\berke\todo\app\CommandLineApp.java
+C:\Users\berke\OneDrive\Masaüstü\todo-app\src\main\java\com\berke\todo\domain\Priority.java
+C:\Users\berke\OneDrive\Masaüstü\todo-app\src\main\java\com\berke\todo\domain\Status.java
+C:\Users\berke\OneDrive\Masaüstü\todo-app\src\main\java\com\berke\todo\domain\Task.java
+C:\Users\berke\OneDrive\Masaüstü\todo-app\src\main\java\com\berke\todo\repository\InMemoryTaskRepository.java
+C:\Users\berke\OneDrive\Masaüstü\todo-app\src\main\java\com\berke\todo\repository\TaskRepository.java
+C:\Users\berke\OneDrive\Masaüstü\todo-app\src\main\java\com\berke\todo\service\TaskService.java
+C:\Users\berke\OneDrive\Masaüstü\todo-app\src\main\java\com\berke\todo\util\TaskFormatter.java
+C:\Users\berke\OneDrive\Masaüstü\todo-app\src\main\java\com\berke\todo\util\TextNormalizer.java
