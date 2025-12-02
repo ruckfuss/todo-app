@@ -59,7 +59,7 @@ Deleted: 1001
 Choice:
 6
 Keyword: groceries
-Task{id=1001, title='Buy groceries', priority=HIGH, status=PENDING, createdAt=2025-12-02 19:54:17, completedAt=2025-12-03 12:48:21}
+Task{id=1001, title='Buy groceries', priority=HIGH, status=PENDING, createdAt=2025-12-02 12:32:12, completedAt=2025-12-03 12:48:21}
 ```
 ## 🕒 List Pending Tasks
 ```
@@ -67,13 +67,13 @@ Task{id=1002, title='Pay bills', priority=MEDIUM, status=PENDING, createdAt=2025
 ```
 ## 📅 Sort by Created Date
 ```
-Task{id=1001, title='Buy groceries', priority=HIGH, status=DONE, createdAt=2025-12-02 19:54:17, completedAt=2025-12-03 12:48:21}
-Task{id=1002, title='Pay bills', priority=MEDIUM, status=PENDING, createdAt=2025-12-02 19:57:21, completedAt=-}
+Task{id=1001, title='Buy groceries', priority=HIGH, status=DONE, createdAt=2025-12-02 12:32:12, completedAt=2025-12-03 12:48:21}
+Task{id=1002, title='Pay bills', priority=MEDIUM, status=PENDING, createdAt=2025-12-03 19:57:21, completedAt=-}
 ```
 ## ✅ Sort by Completion Date
 ```
 Task{id=1002, title='Pay bills', priority=MEDIUM, status=DONE, createdAt=2025-12-02 19:57:21, completedAt=2025-12-04 14:23:45}
-Task{id=1001, title='Buy groceries', priority=HIGH, status=DONE, createdAt=2025-12-02 19:54:17, completedAt=2025-12-03 12:48:21}
+Task{id=1001, title='Buy groceries', priority=HIGH, status=DONE, createdAt=2025-12-03 19:54:17, completedAt=2025-12-04 12:48:21}
 ```
 ## 🚀 Features
 - Add, update, delete tasks
