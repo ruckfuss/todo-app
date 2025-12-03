@@ -94,6 +94,24 @@ mvn compile exec:java
 ```
 mvn test
 ```
+## ✅ Test Coverage
+```
+This project uses **JUnit 5** for unit testing. All core functionalities are covered.
+
+ -------------------------------------------------------
+  T E S T S
+ -------------------------------------------------------
+ Running com.berke.todo.repository.InMemoryTaskRepositoryTest
+ Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.119 s -- in com.berke.todo.repository.InMemoryTaskRepositoryTest
+ Running com.berke.todo.service.TaskServiceTest
+ Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.017 s -- in com.berke.todo.service.TaskServiceTest
+ 
+ Results:
+
+ Tests run: 7, Failures: 0, Errors: 0, Skipped: 0
+
+ ------------------------------------------------------------------------
+```
 ## 📦 Requirements
 - Java 25+
 - Maven 3.8+
