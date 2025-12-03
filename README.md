@@ -90,9 +90,8 @@ mvn compile exec:java
 ```
 
 ---
-### 🧪Run Tests
+## 🧪Run Tests
 ```
-## Run Test
 mvn test
 ```
 ## 📦 Requirements
@@ -105,7 +104,7 @@ Pull requests welcome. For major changes, please open an issue first to discuss 
 ## 📄 License
 This project is licensed under the MIT License — see the LICENSE file for details.
 
-## 👨‍💻 Autor
+## 👨‍💻 Author
 Berke — Hungry for transformation, ruthless about quality.
 
 
