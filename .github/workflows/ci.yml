@@ -14,12 +14,13 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
 
-    - name: Set up JDK 21 (Temurin LTS)
+    - name: Set up JDK 25 (Temurin LTS)
       uses: actions/setup-java@v4
       with:
         distribution: temurin
-        java-version: '21'
+        java-version: '25'
         cache: 'maven'
 
     - name: Verify with Maven
       run: mvn -B -ntp clean verify
+
